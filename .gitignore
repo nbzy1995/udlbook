@@ -29,3 +29,4 @@ yarn-error.log*
 # macOS
 .DS_Store
 Notebooks/Chap08/sample_data/mnist1d_data.pkl
+Notebooks/Chap10/MNIST/raw/*
